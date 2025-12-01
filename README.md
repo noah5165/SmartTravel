@@ -20,6 +20,23 @@ This project was created for COM-437: Mobile Application Development at Saint Le
 
 ---
 
+## Progress
+- Android Studio project initialized
+- UI wireframes and navigation flow designed
+- Initial Java class structure creates (Tasl, SessionTimer, etc.)
+- Basic layouts drafted for home and timer screens.
+  
+---
+
+## Version Changelog
+| Version | Week  | Status   | Description of Changes / Plans                          
+-----------------------------------------------------------------------------------
+| v0.1   | Week 3 | Previous | Initial outline created: defined core features and basic screens.
+| v0.2   | Week 4 | Current  | Updated feature list, refined UI layout, clarified data storage approach.
+| v0.3   | Week 5–7 | Future | Implement remaining features, polish UI, update README, and finalize testing.
+
+---
+
 ## Technology Stack
 - Android Studio Iguana (or latest stable release)
 - Java (JDK 8)
@@ -45,6 +62,14 @@ Additional details are included in the project Wiki.
 The full system outline and design documentation are available in the project Wiki:
 
 https://github.com/noah5165/SmartTravel/wiki
+
+---
+## Next Steps
+- Connect Room database to task and sessions
+- Implement Pomodoro timing logic and notifications
+- Update UI with travel-themed visuals
+- Add analytics to the past flights screen
+- Complete final app submission
 
 ---
 
