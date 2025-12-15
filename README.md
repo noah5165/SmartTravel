@@ -14,7 +14,7 @@ This project was created for COM-437: Mobile Application Development at Saint Le
 ## Features
 - Create and manage task entries (“Destinations”)
 - 25-minute Pomodoro study cycles (“Flights”)
-- Automatically triggered short and long breaks (“Layovers”)
+- Automatically triggered notifications for short and long breaks (“Layovers”)
 - Travel-themed user interface and visual hierarchy
 - Session history and time tracking (“Past Flights”)
 
@@ -51,7 +51,7 @@ Included wireframes represent the following views:
 - Home Screen
 - Choose Flight Screen
 - In-Flight Timer Screen
-- Break/Layover Screen
+- Break/Layover notification Screen
 - Past Flights/History Screen
 
 Additional details are included in the project Wiki.
