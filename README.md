@@ -49,7 +49,7 @@ This project was created for COM-437: Mobile Application Development at Saint Le
 ## Screens and Wireframes
 Included wireframes represent the following views:
 - Home Screen
-- Create Task Screen
+- Choose Flight Screen
 - In-Flight Timer Screen
 - Break/Layover Screen
 - Past Flights/History Screen
